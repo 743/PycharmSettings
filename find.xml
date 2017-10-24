@@ -1,0 +1,42 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
+    <recentFileMasks>
+      <mask>*.r</mask>
+      <mask>*.jp</mask>
+      <mask>*.j</mask>
+      <mask>*.lo</mask>
+      <mask>*.log~</mask>
+      <mask>*.log!</mask>
+      <mask>*.log</mask>
+      <mask>*.js</mask>
+      <mask>*.jso</mask>
+      <mask>*.c</mask>
+      <mask>*.less</mask>
+      <mask>*.les</mask>
+      <mask>*.le</mask>
+      <mask>*.l</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
+      <mask>*,</mask>
+      <mask>*,jso</mask>
+      <mask>*json</mask>
+      <mask>*,json</mask>
+      <mask>*.json</mask>
+      <mask>*,js</mask>
+      <mask>*.w</mask>
+      <mask>*.we</mask>
+      <mask>*.web</mask>
+      <mask>!*.log</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.py</mask>
+    </recentFileMasks>
+  </component>
+</application>
