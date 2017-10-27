@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Pylint" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\Python27\Scripts\pylint.exe" />
+      <option name="PARAMETERS" value="$FilePath$" />
+      <option name="WORKING_DIRECTORY" value="C:/Python27/Scripts" />
+    </exec>
+  </tool>
+</toolSet>
