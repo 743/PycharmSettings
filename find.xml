@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.log!</mask>
       <mask>*.log</mask>
       <mask>*.js</mask>
       <mask>*.jso</mask>
@@ -31,9 +30,10 @@
       <mask>!*.l</mask>
       <mask>!*.lo</mask>
       <mask>!*.log</mask>
+      <mask>*.py</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.py</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
