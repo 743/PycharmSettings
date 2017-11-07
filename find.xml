@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>*.log</mask>
       <mask>*.js</mask>
@@ -27,13 +28,13 @@
       <mask>!*.l</mask>
       <mask>!*.lo</mask>
       <mask>!*.log</mask>
-      <mask>*.py</mask>
-      <mask>*</mask>
       <mask>*.ts</mask>
-      <mask>*.</mask>
       <mask>*.w</mask>
       <mask>*.we</mask>
       <mask>*.web</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
