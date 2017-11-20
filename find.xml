@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="*.gsv" />
     <recentFileMasks>
-      <mask>*.css</mask>
       <mask>*,</mask>
       <mask>*,jso</mask>
       <mask>*json</mask>
@@ -31,10 +30,11 @@
       <mask>!*.</mask>
       <mask>!*</mask>
       <mask>!</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.py</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.gsv</mask>
     </recentFileMasks>
   </component>
 </application>
