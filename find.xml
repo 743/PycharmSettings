@@ -3,38 +3,38 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.gsv" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*,</mask>
-      <mask>*,jso</mask>
-      <mask>*json</mask>
-      <mask>*,json</mask>
-      <mask>*.json</mask>
-      <mask>*,js</mask>
-      <mask>!*.l</mask>
-      <mask>!*.lo</mask>
-      <mask>!*.log</mask>
-      <mask>*.ts</mask>
-      <mask>*.w</mask>
-      <mask>*.we</mask>
-      <mask>*.web</mask>
-      <mask>*.sq</mask>
-      <mask>*.sql</mask>
-      <mask>*.ht</mask>
-      <mask>*.html</mask>
-      <mask>!*.py</mask>
-      <mask>!*.p</mask>
-      <mask>!*.web</mask>
-      <mask>!*.we</mask>
-      <mask>!*.w</mask>
-      <mask>!*.</mask>
-      <mask>!*</mask>
-      <mask>!</mask>
-      <mask>*.p</mask>
-      <mask>*.py</mask>
+      <mask>!*.web, !*.gsv |</mask>
+      <mask>!*.web, !*.gsv |</mask>
+      <mask>!*.web, !*.gsv | *</mask>
+      <mask>!*.web, !*.gsv | *.</mask>
+      <mask>!*.web, !*.gsv | *.s</mask>
+      <mask>!*.web, !*.gsv | *.sh</mask>
+      <mask>!*.web, !*.gsv |*.sh</mask>
+      <mask>!*.web, !*.gsv *.sh</mask>
+      <mask>!*.web, !*.gsv*.sh</mask>
+      <mask>!*.web, !*.gsv, *.sh</mask>
+      <mask>!*.web, !*.gsv, !*.sh</mask>
+      <mask>!*.web, !*.gsv, !*.sh,</mask>
+      <mask>!*.web, !*.gsv, !*.sh, !.</mask>
+      <mask>!*.web, !*.gsv, !*.sh, !</mask>
+      <mask>!*.web, !*.gsv, !*.sh, !*</mask>
+      <mask>!*.web, !*.gsv, !*.sh, !*.</mask>
+      <mask>!*.web, !*.gsv, !*.sh, !*.lo</mask>
+      <mask>!*.web, !*.gsv, !*.sh, !*.log</mask>
+      <mask>!*.web, !*.gsv, !*.sh, !*.log,</mask>
+      <mask>!*.web, !*.gsv, !*.sh, !*.log, !.*</mask>
+      <mask>!*.web, !*.gsv, !*.sh, !*.log, !.</mask>
+      <mask>!*.web, !*.gsv, !*.sh, !*.log, !</mask>
+      <mask>!*.web, !*.gsv, !*.sh, !*.log, !*</mask>
+      <mask>!*.web, !*.gsv, !*.sh, !*.log, !*.</mask>
+      <mask>!*.web, !*.gsv, !*.sh, !*.log, !*.re</mask>
+      <mask>!*.web, !*.gsv, !*.sh, !*.log, !*.rex</mask>
+      <mask>*.sh</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.gsv</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
