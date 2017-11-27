@@ -26,14 +26,14 @@
       <mask>!*.log, !*.re</mask>
       <mask>!*.log, !*.rex</mask>
       <mask>*.js</mask>
-      <mask>*.py</mask>
       <mask>*.p</mask>
       <mask>*.w</mask>
       <mask>*.we</mask>
       <mask>*.web</mask>
+      <mask>*.ts</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.ts</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
