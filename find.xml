@@ -3,36 +3,37 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
-      <mask>!*.web, !*.gsv, !*.sh, !*.log, !.</mask>
-      <mask>!*.web, !*.gsv, !*.sh, !*.log, !</mask>
-      <mask>!*.web, !*.gsv, !*.sh, !*.log, !*</mask>
-      <mask>!*.web, !*.gsv, !*.sh, !*.log, !*.</mask>
-      <mask>!*.web, !*.gsv, !*.sh, !*.log, !*.re</mask>
-      <mask>!*.web, !*.gsv, !*.sh, !*.log, !*.rex</mask>
-      <mask>*.sh</mask>
       <mask>!.</mask>
-      <mask>!</mask>
-      <mask>!*</mask>
-      <mask>!*.</mask>
-      <mask>!*.l</mask>
-      <mask>!*.lo</mask>
-      <mask>!*.log</mask>
       <mask>!*.log,</mask>
       <mask>!*.log,</mask>
       <mask>!*.log, !</mask>
       <mask>!*.log, !*</mask>
       <mask>!*.log, !*.</mask>
       <mask>!*.log, !*.re</mask>
-      <mask>!*.log, !*.rex</mask>
       <mask>*.ts</mask>
       <mask>*.p</mask>
       <mask>*.w</mask>
       <mask>*.we</mask>
       <mask>*.web</mask>
+      <mask>*.js</mask>
+      <mask>!</mask>
+      <mask>!*</mask>
+      <mask>!*.</mask>
+      <mask>!*.l</mask>
+      <mask>!*.lo</mask>
+      <mask>!*.log</mask>
+      <mask>!*.log, !*.rex</mask>
+      <mask>!*.log, !*.rex,</mask>
+      <mask>!*.log, !*.rex, !</mask>
+      <mask>!*.log, !*.rex, !*</mask>
+      <mask>!*.log, !*.rex, !*.</mask>
+      <mask>!*.log, !*.rex, !*.d</mask>
+      <mask>!*.log, !*.rex, !*.du</mask>
+      <mask>!*.log, !*.rex, !*.dump</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.js</mask>
       <mask>*.py</mask>
     </recentFileMasks>
   </component>
