@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory 'D:\OPR WS\opr_fe\.tmp [opr_fe]'" />
-    <option name="defaultScopeName" value="Directory 'D:\OPR WS\opr_fe\.tmp [opr_fe]'" />
-    <option name="SEARCH_SCOPE" value="Directory 'D:\OPR WS\opr_fe\.tmp [opr_fe]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>!.</mask>
       <mask>!*.log,</mask>
