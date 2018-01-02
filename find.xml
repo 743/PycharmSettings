@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Module 'opr_fe'" />
+    <option name="defaultScopeName" value="Module 'opr_fe'" />
+    <option name="SEARCH_SCOPE" value="Module 'opr_fe'" />
     <recentFileMasks>
       <mask>!.</mask>
       <mask>!*.log,</mask>
