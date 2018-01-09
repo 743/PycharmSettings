@@ -4,6 +4,7 @@
       <mapping ext="gz" type="Native" />
       <mapping pattern="setenv_user" type="PLAIN_TEXT" />
       <mapping ext="java" type="PLAIN_TEXT" />
+      <mapping ext="0047256" type="PLAIN_TEXT" />
       <mapping ext="web" type="Python" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
