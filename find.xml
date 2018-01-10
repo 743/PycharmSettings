@@ -3,18 +3,12 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="!*.log" />
     <recentFileMasks>
-      <mask>!*.log, !*</mask>
-      <mask>*.ts</mask>
-      <mask>*.w</mask>
       <mask>*.we</mask>
       <mask>*.web</mask>
-      <mask>*.js</mask>
       <mask>!*.l</mask>
       <mask>!*.log, !*.rex,</mask>
       <mask>!*.log, !*.rex, !</mask>
@@ -27,18 +21,22 @@
       <mask>!*</mask>
       <mask>!*.</mask>
       <mask>!*.lo</mask>
-      <mask>!*.log, !*.rex</mask>
       <mask>!*.log, !*.re</mask>
       <mask>!*.log, !*.r</mask>
       <mask>!*.log, !*.</mask>
       <mask>!*.log, !</mask>
       <mask>!*.log,</mask>
       <mask>!*.log,</mask>
-      <mask>!*.log</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.py</mask>
+      <mask>*.p</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sh</mask>
+      <mask>!*.log, !*.rex</mask>
+      <mask>!*.log</mask>
     </recentFileMasks>
   </component>
 </application>
