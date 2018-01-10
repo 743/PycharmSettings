@@ -5,11 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.log" />
+    <option name="FILE_MASK" value="*.sh" />
     <recentFileMasks>
-      <mask>*.we</mask>
-      <mask>*.web</mask>
-      <mask>!*.l</mask>
       <mask>!*.log, !*.rex,</mask>
       <mask>!*.log, !*.rex, !</mask>
       <mask>!*.log, !*.rex, !*</mask>
@@ -34,9 +31,12 @@
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.s</mask>
-      <mask>*.sh</mask>
       <mask>!*.log, !*.rex</mask>
       <mask>!*.log</mask>
+      <mask>!*.*.sh</mask>
+      <mask>*.*.sh</mask>
+      <mask>.*.sh</mask>
+      <mask>*.sh</mask>
     </recentFileMasks>
   </component>
 </application>
