@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*.log, !*.rex" />
     <recentFileMasks>
       <mask>!*.log, !*.rex, !</mask>
       <mask>!*.log, !*.rex, !*</mask>
@@ -23,7 +24,6 @@
       <mask>*</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>!*.log, !*.rex</mask>
       <mask>!*.log</mask>
       <mask>!*.*.sh</mask>
       <mask>*.*.sh</mask>
@@ -34,6 +34,7 @@
       <mask>*.sh</mask>
       <mask>*.</mask>
       <mask>*.py</mask>
+      <mask>!*.log, !*.rex</mask>
     </recentFileMasks>
   </component>
 </application>
