@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="gz" type="Native" />
+      <mapping pattern="setenv" type="PLAIN_TEXT" />
       <mapping pattern="setenv_user" type="PLAIN_TEXT" />
       <mapping ext="gsv" type="PLAIN_TEXT" />
       <mapping ext="java" type="PLAIN_TEXT" />
